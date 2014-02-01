@@ -27,3 +27,7 @@ for 5 servers. If we want to change the the number of servers then we have to ch
 Use
 =====
    This code can be useful to build a cluster interface to communicate with other clusters.
+
+Rights
+=====
+   This code is open source. So anyone can use this.
