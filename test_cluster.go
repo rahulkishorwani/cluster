@@ -1,7 +1,7 @@
 package main
 import (
 	//"fmt"
-	"github.com/rahulkishorwani/cluster"
+	"github.com/rahulkishorwani/cluster/myluster"
 	"sync"
 	"os"
 	"os/exec"
