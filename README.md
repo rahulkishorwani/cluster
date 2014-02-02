@@ -18,6 +18,11 @@ Other:-Cluster,zmq4.
 
 Install
 =====
+go get github.com/rahulkishorwani/cluster
+
+Run
+=====
+go test
 
 Constraints
 =====
