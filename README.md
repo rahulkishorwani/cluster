@@ -29,8 +29,8 @@ How to use
 The new method in this package allows you to create the instance of cluster server. This will be one of the server that will be the part of cluster.
 `server_main := New(host_id, size_of_in_chan ,size_of_out_chan,fnm,delay_before_conn)`
 where 
-     host_id is the id in the form of integer which is present in the configuration file
-     size_of_in_chan is the inbox allowable channel size in the form of integer value
+     host_id is the id in the form of integer which is present in the configuration file\\
+     size_of_in_chan is the inbox allowable channel size in the form of integer value\\
      size_of_out_chan is the outbox allowable channel size in the form of integer value
      delay_before_conn is the delay before the connection between the different servers actually happen. It is in the form of int which we should be the value in milliseconds
      
